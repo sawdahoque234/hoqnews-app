@@ -4,4 +4,3 @@
 * This Resposive
 * Everybody read their daily news update here.
 
-![image]("./public/img/img1.png")
